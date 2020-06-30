@@ -2,6 +2,9 @@
 
 You can enable or disable [ListViewItem](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.ListViewItem.html?) swiping conditionally in Xamarin.Forms [SfListView](https://help.syncfusion.com/xamarin/listview/overview?) using the binding context property.
 
+You can also refer the following article.
+https://www.syncfusion.com/kb/11669/how-to-conditionally-handle-the-swiping-in-xamarin-forms-listview-sflistview 
+
 **XAML**
 
 Defined **SfListView** with [LeftSwipeTemplate](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~LeftSwipeTemplate.html?), [RightSwipeTemplate](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~RightSwipeTemplate.html?) and set the [AllowSwiping](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~AllowSwiping.html?) Property to **True**
